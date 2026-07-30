@@ -27,3 +27,89 @@ The system allows users to add, view, search, update, and delete student records
 - Python Modules and Packages
 
 ## Project Structure
+
+Student-Management-System
+│
+├── main.py
+│
+└── student_management_system
+    │
+    ├── __init__.py
+    ├── student.py
+    ├── database.py
+    └── operation.py
+
+
+## File Description
+
+### main.py
+- Provides menu-driven user interface
+- Controls the complete application flow
+
+### student.py
+- Contains Student class
+- Implements Object-Oriented Programming concepts
+
+### database.py
+- Handles SQLite database connection
+- Creates student table
+- Performs database operations
+
+### operation.py
+- Contains business logic
+- Handles add, view, search, update, and delete operations
+
+## Functionalities
+
+### 1. Add Student
+
+- Add new student details into the database
+- Stores student information permanently
+
+### 2. View Students
+
+- Displays all student records stored in the database
+
+### 3. Search Student
+
+- Search student details using student ID or roll number
+
+### 4. Update Student
+
+- Modify existing student information
+
+### 5. Delete Student
+
+- Remove student records from the database
+
+## Database
+
+SQLite database is used for storing student information permanently.
+
+### Student Table
+
+| Column | Description |
+|---|---|
+| ID | Unique student identifier |
+| Name | Student name |
+| Age | Student age |
+| Course | Student course |
+
+## How to Run
+
+### Clone Repository (git clone https://github.com/chanthuru258/student-management-system.git)
+
+
+## Future Enhancements
+
+- User Login Authentication
+- GUI Application using Tkinter
+- Web Application using Flask/Django
+- Export Student Data to Excel/PDF
+
+## Author
+
+Chanthuru S
+    
+
+## Project Structure
