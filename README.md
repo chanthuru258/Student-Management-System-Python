@@ -1,32 +1,29 @@
 # Student Management System
 
 ## Overview
-This is a beginner-friendly Python project that manages student records using a menu-driven console application.
+
+Student Management System is an intermediate-level Python project designed to manage student records efficiently.
+
+This project is developed using Python, Object-Oriented Programming (OOP) concepts, modular package structure, and SQLite Database for permanent data storage.
+
+The system allows users to add, view, search, update, and delete student records.
 
 ## Features
-- Add Student
-- View Students
-- Menu-Driven Interface
+
+- Add Student Records
+- View All Student Details
+- Search Student by Roll Number
+- Update Student Information
+- Delete Student Records
+- Store Data Permanently using SQLite Database
+- Modular Python Package Structure
+- Object-Oriented Programming Implementation
 
 ## Technologies Used
+
 - Python 3
-
-## Concepts Used
-- Functions
-- Lists
-- Dictionaries
-- Loops
-- Conditional Statements
-
-## How to Run
-
-```bash
-python student_management.py
-```
-
-## Future Improvements
-- Search Student
-- Update Student
-- Delete Student
-- File Handling
 - SQLite Database
+- Object-Oriented Programming (OOP)
+- Python Modules and Packages
+
+## Project Structure
