@@ -98,6 +98,19 @@ SQLite database is used for storing student information permanently.
 ## How to Run
 
 ### Clone Repository git clone github-link(https://github.com/chanthuru258/Student-Management-System-Python.git)
+## How to Run
+
+1. Download or clone this repository.
+
+2. Open the project in VS Code or any Python IDE.
+
+3. Open the terminal in the project folder.
+
+4. Run the following command:
+
+```bash
+python main.py
+```
 
 
 ## Future Enhancements
