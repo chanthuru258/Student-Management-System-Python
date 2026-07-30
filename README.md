@@ -97,7 +97,7 @@ SQLite database is used for storing student information permanently.
 
 ## How to Run
 
-### Clone Repository (git clone https://github.com/chanthuru258/student-management-system.git)
+### Clone Repository git clone github-link(https://github.com/chanthuru258/Student-Management-System-Python.git)
 
 
 ## Future Enhancements
